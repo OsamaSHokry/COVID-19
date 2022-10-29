@@ -1,13 +1,13 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
+# import seaborn as sns
 
 # # get_ipython().run_line_magic('matplotlib', 'inline')
 # sns.set()
 import plotly.express as px
 import streamlit as st
-# from PIL import Image
+from PIL import Image
 
 st.title("COVID-19")
 
